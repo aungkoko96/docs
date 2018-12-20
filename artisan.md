@@ -2,7 +2,7 @@
 
 - [စတင်မိတ်ဆက်ခြင်း](#introduction)
     - [Tinker (REPL)](#tinker)
-- [Writing Commands](#writing-commands)
+- [Commandများ ေရးသားခြင်း](#writing-commands)
     - [Generating Commands](#generating-commands)
     - [Command Structure](#command-structure)
     - [Closure Commands](#closure-commands)
