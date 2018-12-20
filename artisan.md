@@ -1,6 +1,6 @@
 # Artisan Console
 
-- [Introduction](#introduction)
+- [စတင်မိတ်ဆက်ခြင်း](#introduction)
     - [Tinker (REPL)](#tinker)
 - [Writing Commands](#writing-commands)
     - [Generating Commands](#generating-commands)
